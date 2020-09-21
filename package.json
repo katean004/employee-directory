@@ -1,0 +1,29 @@
+{
+  "name": "employee-directory",
+  "version": "1.0.0",
+  "description": "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)\r Heroku Application:",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katean004/employee-directory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katean004/employee-directory/issues"
+  },
+  "homepage": "https://github.com/katean004/employee-directory#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react": "^16.13.1"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
