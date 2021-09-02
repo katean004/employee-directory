@@ -11,7 +11,7 @@
 
 
 ## Description
-An Employee Directory made by React that helps to view the entire employee direcotry at once. It sorts the table by category and filters the users by property. 
+An Employee Directory made by React that helps to view the entire employee directory at once. It sorts the table by category and filters the users by property. 
 
 ## Installation 
 Install dotenv, react, express, mongoose npms before usage. 
